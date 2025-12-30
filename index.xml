@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MK-mania</title>
-    <link>http://www.edelan.de/</link>
+    <link>/</link>
     <description>Recent content on MK-mania</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>All rights reserved - 2015</copyright>
     <lastBuildDate>Sun, 24 Feb 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.edelan.de/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>первый</title>
-      <link>http://www.edelan.de/post/post-title/</link>
+      <link>/post/post-title/</link>
       <pubDate>Sun, 24 Feb 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://www.edelan.de/post/post-title/</guid>
+      <guid>/post/post-title/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Пилотам на 23 февраля.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;На стебельке травинки&lt;br /&gt;
