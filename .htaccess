@@ -1,0 +1,2 @@
+AddHandler application/x-httpd-alt-php56___lsphp .php
+DirectoryIndex index.html index.htm index.php index.phtml index.php5
